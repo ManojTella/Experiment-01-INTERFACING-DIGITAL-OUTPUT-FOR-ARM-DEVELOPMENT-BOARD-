@@ -182,7 +182,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- 
+![pca git1](https://user-images.githubusercontent.com/94883876/226309525-6edf4155-c107-4a20-b0c3-f32e045117ce.png)
+![pca git2](https://user-images.githubusercontent.com/94883876/226309548-40e6e4c0-76c1-46cd-ba0d-63567aabce49.png)
+
  
  
 ## Result :
